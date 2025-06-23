@@ -53,11 +53,11 @@ CLOUDINARY_API_KEY=your_api_key
 CLOUDINARY_API_SECRET=your_api_secret
 
 # Backend
-cd server
+cd backend
 npm run dev
 
 # Frontend
-cd client
+cd frontend
 npm run dev
 ```
 
